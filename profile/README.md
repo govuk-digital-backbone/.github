@@ -24,4 +24,6 @@ Our users are people working in UK public sector organisations, including:
 - NHS, Police, Fire and Social Care services
 
 ## Want to learn more?
-Access our [GOV.UK form here](https://submit.forms.service.gov.uk/form/8339/digital-backbone-contact), where you can send us queries, comments and feedback, as well as choose to join our mailing list.
+To receive our latest news and updates, subscribe to the [Digital Backbone mailing list](https://submit.forms.service.gov.uk/form/8444/digital-backbone-mailing-list).
+
+To join community conversations and ask questions publicly, you can visit our [GitHub Discussions](https://github.com/orgs/govuk-digital-backbone/discussions). If you would rather send us a private query, comment, or feedback, please use [our contact form](https://submit.forms.service.gov.uk/form/8339/digital-backbone-contact) instead.
